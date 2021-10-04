@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = romain.bruyndonckx@gmail.com
+	name = romain bruyndonckx
